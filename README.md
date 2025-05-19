@@ -4,14 +4,16 @@ An intelligent movie recommendation app that helps users discover movies similar
 
 🚀 Features:
 
-🎥 Select a movie you like
-🎯 Get a list of similar movies using content-based filtering
-📝 View detailed info: plot, genre, IMDb rating, and poster
-⚡ Fast and interactive UI using Streamlit
+🎥 Select a movie you like <br>
+🎯 Get a list of similar movies using content-based filtering<br>
+📝 View detailed info: plot, genre, IMDb rating, and poster<br>
+⚡ Fast and interactive UI using Streamlit<br>
 
-🛠 Tech Stack
-*Python
-*Pandas
-*Streamlit
-*OMDb API
-*Cosine Similarity (for content-based recommendation)
+
+🛠 Tech Stack:
+
+✳️Python<br>
+✳️Pandas<br>
+✳️Streamlit<br>
+✳️OMDb API<br>
+✳️Cosine Similarity (for content-based recommendation)<br>
